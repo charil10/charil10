@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Charil 👋
 
-<!--
-**charil10/charil10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Blockchain Developer
+- 🌟 2 years of experience in blockchain technology
+- 💡 Skilled in Solidity, Ethereum, and smart contract development
+- 🌱 Currently exploring decentralized finance (DeFi)
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+- **Languages:** Solidity, JavaScript, Python, Java
+- **Frameworks:** Truffle, Hardhat, Nodejs, Reactjs
+- **Tools:** Remix, Ganache, Metamask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/charil-saini-567285129/)
+
+## 📊 GitHub Stats
+![Charil's GitHub stats](https://github-readme-stats.vercel.app/api?username=charil10&show_icons=true&theme=radical)
+
+## 🚀 Projects
+### [Project 1: Decentralized Staking System](https://github.com/charil10/dBank_Frontend)
+- A decentralized application for staking  
+
+### [Project 2: Blockchain-based Explorer](https://github.com/charil10/blockscout)
+- worked closely on blockscout for development and deployment
+### [Project 3: DPOS Blockchain](https://github.com/polluxchain/java-pollux)
+- developed a dpos tron forked blockchain
+
