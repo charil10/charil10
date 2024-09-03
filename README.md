@@ -1,7 +1,7 @@
 # Hi, I'm Charil 👋
 
 ## 🌐 Blockchain Developer
-- 🌟 2 years of experience in blockchain technology
+- 🌟 4 years of experience in blockchain technology
 - 💡 Skilled in Solidity, Ethereum, and smart contract development
 - 🌱 Currently exploring decentralized finance (DeFi)
 
@@ -9,9 +9,6 @@
 - **Languages:** Solidity, JavaScript, Python, Java
 - **Frameworks:** Truffle, Hardhat, Nodejs, Reactjs
 - **Tools:** Remix, Ganache, Metamask
-
-## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/charil-saini-567285129/)
 
 ## 📊 GitHub Stats
 ![Charil's GitHub stats](https://github-readme-stats.vercel.app/api?username=charil10&show_icons=true&theme=radical)
